@@ -1,0 +1,1 @@
+This is a text file that will be used to test ./versionb.sh. When ran, this script should create a dated copy of this file.
